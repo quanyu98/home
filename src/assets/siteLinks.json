@@ -1,28 +1,18 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Book",
+    "name": "txt转m3u",
+    "link": "https://live.qiyunzijiangroup.top/live/txt2m3u/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "去重复链接",
+    "link": "https://live.qiyunzijiangroup.top/live/qc/"
+  },
+  {
+    "icon": "Book",
+    "name": "资源整理",
+    "link": "https://live.qiyunzijiangroup.top/live/zl/"
   },
   {
     "icon": "Fire",
@@ -31,7 +21,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "解密",
+    "link": "https://live.qiyunzijiangroup.top/tv/cszh/"
   }
 ]
